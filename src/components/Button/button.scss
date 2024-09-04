@@ -8,7 +8,7 @@
     max-height: fit-content;
     column-gap: 8px;
     width: fit-content;
-    @include body-large;
+    // @include body-large;
     color: var(--text-white);
     background-color: var(--blue-green-blue-green80);
     box-shadow: 0px 4px 4px var(--light-blue-opacity10);
@@ -21,7 +21,7 @@
       height: 32px;
       padding: 6px 12px;
       min-height: 32px;
-      @include body-medium;
+    //   @include body-medium;
     }
     &__label {
       text-wrap: nowrap;
@@ -78,7 +78,7 @@
     &--size-medium {
       min-height: 32px;
       padding: 6px 12px;
-      @include body-medium;
+    //   @include body-medium;
   
       .careerOS-button__loader::after {
         height: 16px;
@@ -89,7 +89,7 @@
       min-height: 28px;
       padding: 4px 8px;
       column-gap: 4px;
-      @include body-medium;
+    //   @include body-medium;
   
       .careerOS-button__loader::after {
         height: 16px;
@@ -101,7 +101,7 @@
       min-height: 16px;
       padding: 4px 8px;
       column-gap: 4px;
-      @include label-medium;
+    //   @include label-medium;
   
       .careerOS-button__loader::after {
         height: 16px;
@@ -223,7 +223,7 @@
       box-shadow: none;
       padding: 0;
       min-height: fit-content;
-      @include body-medium;
+    //   @include body-medium;
   
       &:hover,
       &:focus {
@@ -253,7 +253,7 @@
       padding: 0;
       min-height: fit-content;
       border: none;
-      @include body-medium;
+    //   @include body-medium;
   
       &:hover,
       &:focus {
