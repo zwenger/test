@@ -1,5 +1,5 @@
 {
-  "name": "react-vite-component-template",
+  "name": "coco2",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -52,7 +52,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.5",
     "eslint-plugin-storybook": "0.8.0",
-    "glob": "10.3.12",
+    "glob": "11.0.0",
     "jsdom": "24.0.0",
     "prettier": "3.2.5",
     "storybook": "8.0.8",
